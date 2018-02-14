@@ -1,0 +1,172 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="GradleLocalSettings">
+        <option name="modificationStamps">
+          <map>
+            <entry key="$USER_HOME$/Desktop/Dexter" value="5893563025787" />
+            <entry key="$USER_HOME$/Desktop/InnerBeans_android_2018" value="12125717980055" />
+            <entry key="$USER_HOME$/Desktop/InnerBeans_commit/innerbeans0801_2" value="5880166450002" />
+            <entry key="$USER_HOME$/Desktop/InnerBeans_commit/innerbeans0802" value="5880431900826" />
+            <entry key="$USER_HOME$/Desktop/InnerBeans_commit/innerbeans0803" value="5880860645730" />
+            <entry key="$USER_HOME$/Desktop/InnerBeans_commit/innerbeans0808" value="5882615860614" />
+            <entry key="$USER_HOME$/Desktop/InnerBeans_commit/innerbeans0809" value="5882812630224" />
+            <entry key="$USER_HOME$/Desktop/InnerBeans_commit/innerbeans0810" value="7354520511383" />
+            <entry key="$USER_HOME$/Desktop/InnerBeans_commit/innerbeans0812" value="7354854773547" />
+            <entry key="$USER_HOME$/Desktop/InnerBeans_commit/innerbeans0816" value="7356682911287" />
+            <entry key="$USER_HOME$/Desktop/InnerBeans_commit/innerbeans0816_2" value="7356704881634" />
+            <entry key="$USER_HOME$/Desktop/InnerBeans_commit/innerbeans0817" value="7357139859767" />
+            <entry key="$USER_HOME$/Desktop/InnerBeans_commit/innerbeans0822" value="7359269999031" />
+            <entry key="$USER_HOME$/Desktop/InnerBeans_commit/innerbeans0823" value="7359723646234" />
+            <entry key="$USER_HOME$/Desktop/InnerBeans_commit/innerbeans0824" value="7360010849724" />
+            <entry key="$USER_HOME$/Desktop/InnerBeans_commit/innerbeans0829" value="7362248919049" />
+            <entry key="$USER_HOME$/Desktop/InnerBeans_commit/innerbeans0830" value="7362729123026" />
+            <entry key="$USER_HOME$/Desktop/InnerBeans_commit/innerbeans0831" value="8835681500806" />
+            <entry key="$USER_HOME$/Desktop/InnerBeans_commit/innerbeans0901" value="8836161578944" />
+            <entry key="$USER_HOME$/Desktop/InnerBeans_commit/innerbeans0920" value="8845996922899" />
+            <entry key="$USER_HOME$/Desktop/InnerBeans_commit/innerbeans0927" value="8849793952894" />
+            <entry key="$USER_HOME$/Desktop/InnerBeans_commit/innerbeans_include_unity" value="11796988893355" />
+            <entry key="$USER_HOME$/Desktop/InnerBeans_commit/innerbeans_unity" value="11796749588738" />
+            <entry key="$USER_HOME$/Desktop/design/v2.0/InnerBeans v2.1" value="5873252009958" />
+            <entry key="$USER_HOME$/Desktop/design/v2.0/InnerBeans_trunk" value="5873253443569" />
+            <entry key="$USER_HOME$/Desktop/design/v2.0/InnerBeans_v2.0" value="5845242253918" />
+            <entry key="$USER_HOME$/Desktop/design/v2.0/innerbeans0703" value="5870178336784" />
+            <entry key="$USER_HOME$/Desktop/innerbeans0801" value="5880059263321" />
+            <entry key="$USER_HOME$/Desktop/innerbeans_android" value="8972653654568" />
+            <entry key="$USER_HOME$/Desktop/realm-practice-example/Android-Universal-Image-Loader" value="5863537131414" />
+            <entry key="$USER_HOME$/Desktop/realm-practice-example/todo-android" value="4394810565495" />
+            <entry key="$USER_HOME$/Desktop/realm-practice/InnerBeans_Realm" value="5863807391245" />
+            <entry key="$USER_HOME$/Desktop/realm-practice/example-realm-android-master/example-realm-android-master" value="4363801332000" />
+            <entry key="$USER_HOME$/Desktop/realm-practice/todo-android" value="4394771978421" />
+            <entry key="$USER_HOME$/Downloads/folder" value="5866991453948" />
+            <entry key="D:/Dev_Tool/Apache-Subversion-1.9.3/bin" value="4370691776304" />
+            <entry key="D:/IB2.0" value="4379500432428" />
+            <entry key="D:/InnerBeans" value="4374789941389" />
+            <entry key="D:/Workspace" value="4371996173526" />
+            <entry key="D:/Workspace/InnerBeans" value="4370694717080" />
+            <entry key="D:/Workspace3" value="4371990880029" />
+          </map>
+        </option>
+        <option name="externalProjectsViewState">
+          <projects_view />
+        </option>
+      </component>
+      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" default="true" assert-keyword="true" jdk-15="true" />
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="settings.github" />
+        <property name="last_opened_file_path" value="$USER_HOME$/Desktop/DEV_!/Prod.InnerBeans.Mobile/InnerBeans_commit/innerbeans17_0427" />
+        <property name="android.sdk.path" value="D:/Dev_Tool/AndroidStudioSDK" />
+        <property name="android.project.structure.last.selected" value="SDK Location" />
+        <property name="android.project.structure.proportion" value="0.15" />
+      </component>
+      <component name="RunManager">
+        <configuration default="true" type="Application" factoryName="Application">
+          <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+          <option name="MAIN_CLASS_NAME" />
+          <option name="VM_PARAMETERS" />
+          <option name="PROGRAM_PARAMETERS" />
+          <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+          <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+          <option name="ALTERNATIVE_JRE_PATH" />
+          <option name="ENABLE_SWING_INSPECTOR" value="false" />
+          <option name="ENV_VARIABLES" />
+          <option name="PASS_PARENT_ENVS" value="true" />
+          <module name="" />
+          <envs />
+          <method />
+        </configuration>
+        <configuration default="true" type="JUnit" factoryName="JUnit">
+          <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+          <module name="" />
+          <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+          <option name="ALTERNATIVE_JRE_PATH" />
+          <option name="PACKAGE_NAME" />
+          <option name="MAIN_CLASS_NAME" />
+          <option name="METHOD_NAME" />
+          <option name="TEST_OBJECT" value="class" />
+          <option name="VM_PARAMETERS" value="-ea" />
+          <option name="PARAMETERS" />
+          <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+          <option name="ENV_VARIABLES" />
+          <option name="PASS_PARENT_ENVS" value="true" />
+          <option name="TEST_SEARCH_SCOPE">
+            <value defaultName="singleModule" />
+          </option>
+          <envs />
+          <patterns />
+          <method />
+        </configuration>
+        <configuration default="true" type="Remote" factoryName="Remote">
+          <option name="USE_SOCKET_TRANSPORT" value="true" />
+          <option name="SERVER_MODE" value="false" />
+          <option name="SHMEM_ADDRESS" value="javadebug" />
+          <option name="HOST" value="localhost" />
+          <option name="PORT" value="5005" />
+          <method />
+        </configuration>
+        <configuration default="true" type="TestNG" factoryName="TestNG">
+          <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+          <module name="" />
+          <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+          <option name="ALTERNATIVE_JRE_PATH" />
+          <option name="SUITE_NAME" />
+          <option name="PACKAGE_NAME" />
+          <option name="MAIN_CLASS_NAME" />
+          <option name="METHOD_NAME" />
+          <option name="GROUP_NAME" />
+          <option name="TEST_OBJECT" value="CLASS" />
+          <option name="VM_PARAMETERS" value="-ea" />
+          <option name="PARAMETERS" />
+          <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+          <option name="OUTPUT_DIRECTORY" />
+          <option name="ANNOTATION_TYPE" />
+          <option name="ENV_VARIABLES" />
+          <option name="PASS_PARENT_ENVS" value="true" />
+          <option name="TEST_SEARCH_SCOPE">
+            <value defaultName="singleModule" />
+          </option>
+          <option name="USE_DEFAULT_REPORTERS" value="false" />
+          <option name="PROPERTIES_FILE" />
+          <envs />
+          <properties />
+          <listeners />
+          <method />
+        </configuration>
+        <configuration name="&lt;template&gt;" type="Applet" default="true" selected="false">
+          <option name="MAIN_CLASS_NAME" />
+          <option name="HTML_FILE_NAME" />
+          <option name="HTML_USED" value="false" />
+          <option name="WIDTH" value="400" />
+          <option name="HEIGHT" value="300" />
+          <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+          <option name="VM_PARAMETERS" />
+        </configuration>
+        <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+          <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+        </configuration>
+      </component>
+      <component name="SvnConfiguration">
+        <configuration useDefault="false">D:\Dev_Tool\Apache-Subversion-1.9.3\bin\svn.exe</configuration>
+      </component>
+      <component name="VcsContentAnnotationSettings">
+        <option name="myLimit" value="2678400000" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ProjectJDKs.UI">
+            <settings>
+              <last-edited>1.8</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>

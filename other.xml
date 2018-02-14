@@ -1,0 +1,42 @@
+<application>
+  <component name="CvsApplicationLevelConfiguration">
+    <option name="PATH_TO_PASSWORD_FILE" value="$userdir/.cvspass" />
+  </component>
+  <component name="RefactoringSettings">
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
+  </component>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="http://iobus.com:3030/svn/repos/mobile/android/native/branches/InnerBeans_1.0_release" />
+        <option value="http://iobus.com:3030/svn/repos/mobile/android/native/branches/InnerBeans_1.0_planet" />
+        <option value="http://iobus.com:3030/svn/repos/mobile/android/native/trunk" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="http://iobus.com:3030/svn/repos/mobile/android/native/branches/InnerBeans_1.0_release" />
+        <option value="http://iobus.com:3030/svn/repos/logcenter_vietnam/mobile/android/trunk" />
+        <option value="http://iobus.com:3030/svn/repos/logcenter_vietnam/mobile/android" />
+        <option value="http://iobus.com:3030/svn/repos/logcenter_vietnam/mobile" />
+        <option value="svn://192.168.1.184/cindy/branches" />
+        <option value="svn://192.168.1.184/apeach" />
+        <option value="http://iobus.com:3030/svn/repos/mobile/android/native/branches/InnerBeans_1.0" />
+        <option value="http://iobus.com:3030/svn/repos/mobile/android/native/branches/Integrade%20Unity%20in%20Android%202.3" />
+        <option value="http://iobus.com:3030/svn/repos/mobile/android/native/branches/Integrade Unity in Android 2.3/innerBeans" />
+        <option value="http://iobus.com:3030/svn/repos/mobile/android/native/branches /Integrade Unity in Android 2.3" />
+        <option value="http://iobus.com:3030/svn/repos/mobile/android/native/branches/InnerBeans_Android_APP_V2.1" />
+        <option value="http://iobus.com:3030/svn/repos/mobile/android/native/trunk" />
+        <option value="https://github.com/realm/realm-java.git" />
+        <option value="http://iobus.com:3030/svn/repos/mobile/android/native" />
+        <option value="http://iobus.com:3030/svn/repos/mobile" />
+        <option value="http://tf.innerbus.net/svn/repos/innerbeans/app/android/native/trunk/app" />
+        <option value="http://tf.innerbus.net/svn/repos/innerbeans/app/android/native/trunk" />
+        <option value="http://tf.innerbus.net/svn/repos/innerbus/app/android/native/trunk" />
+        <option value="http://tf.innerbus.net/svn/repos/innerbeans/app/android" />
+        <option value="http://tf.innerbus.net/svn/repos/innerbeans/app/native/trunk" />
+      </list>
+    </option>
+    <option name="mySvnCommandLine" value="C:\Program Files\TortoiseSVN\bin\svn" />
+  </component>
+</application>
