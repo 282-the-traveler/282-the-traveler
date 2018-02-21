@@ -42,6 +42,10 @@
           <option name="url" value="https://CindyJPark@bitbucket.org/innerbus_team/innerbeans_android.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/IBM-Cloud/chatbot-watson-android.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Cindy\Desktop" />
